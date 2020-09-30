@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/ashiqur.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="/ashiqur.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="/ashiqur.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/ashiqur.netlify.app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/ashiqur.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/ashiqur.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/ashiqur.netlify.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/ashiqur.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/ashiqur.netlify.app/tags/"
                 />
   </url>
   
